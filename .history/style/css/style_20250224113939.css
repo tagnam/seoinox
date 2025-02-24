@@ -154,16 +154,7 @@ padding: 30px 0px;
 }
 
 .footer-content-heading .ri-circle-fill{
-    font-size: 15PX;
-    color: #DD7109
-}
-
-.footer-list{
-    list-style: none;
- padding: unset;
-    color: #ffffff;
-}
-.footer-list>a{
-    color: #ffffff;
+    font-size: 20PX;
+    
 }
 /*==================================== end footer =============================== */

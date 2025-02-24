@@ -160,7 +160,7 @@ padding: 30px 0px;
 
 .footer-list{
     list-style: none;
- padding: unset;
+    padding-left: 20px;
     color: #ffffff;
 }
 .footer-list>a{

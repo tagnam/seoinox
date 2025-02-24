@@ -133,7 +133,7 @@ padding: 30px 0px;
 
 .social-icon{
     width: fit-content;
-    border: 1px solid #DD7109;
+    border: 1px solid;
     padding: 5px 6px;
     border-radius: 53px;
 }
@@ -143,27 +143,5 @@ padding: 30px 0px;
     color: #ffffff;
 }
 
-.social-container{
-    margin: 20px 0px;
-}
-
-.footer-content-heading{
-    padding-left: 20px;
-    font-size: 20px;   
-    color: #ffffff; 
-}
-
-.footer-content-heading .ri-circle-fill{
-    font-size: 15PX;
-    color: #DD7109
-}
-
-.footer-list{
-    list-style: none;
- padding: unset;
-    color: #ffffff;
-}
-.footer-list>a{
-    color: #ffffff;
-}
+.social-containerP{}
 /*==================================== end footer =============================== */
