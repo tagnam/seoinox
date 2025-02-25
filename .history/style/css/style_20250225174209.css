@@ -364,14 +364,6 @@ div.service-card{
     /* top: -156px; */
 }
 
-.service-card img{
-    transition: all 0.3s; 
-}
-
-.service-card:hover img{
-    transform: rotate3d(1, 1, 1, 360deg);
-}
-
   /* <!--====================================== end service section  ============================--> */
 
   /* <!--====================================== start choice section  ============================--> */
@@ -434,7 +426,7 @@ div.service-card{
   }
   /* <!--====================================== end choice section  ============================--> */
 
-  /* <!--====================================== start service page  ============================--> */
+  /* <!--====================================== start service section  ============================--> */
 .service-page-section{
     background-image: url(/images/footer-bg.png);
     background-repeat: no-repeat;
@@ -447,17 +439,11 @@ div.service-card{
 }
 
   .service-num h3{
-    background: linear-gradient(to bottom, rgba(128, 128, 128, 0.233) 0%, #00000000 90%);
+    background: linear-gradient(to bottom, gray 0%, #00000000 90%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 90px;
     font-weight: 700;
-    transition: all 0.3s; 
-}
-.icon-container:hover h3{
-     background: linear-gradient(to bottom, gray 0%, #00000000 90%);
-     -webkit-background-clip: text;
-     -webkit-text-fill-color: transparent;
 }
 
 .icon-container{
@@ -484,12 +470,11 @@ div.service-card{
     }
 
     .icon-container:hover img{
-        /* transform: rotate(360deg); */
-        transform: rotate3d(1, 1, 1, 360deg);
+        transform: rotate(360deg);
+        trans;
     }
 
-
-  /* <!--====================================== end page section  ============================--> */
+  /* <!--====================================== end service section  ============================--> */
 
 
 

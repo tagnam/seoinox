@@ -452,12 +452,10 @@ div.service-card{
     -webkit-text-fill-color: transparent;
     font-size: 90px;
     font-weight: 700;
-    transition: all 0.3s; 
+    /* background: linear-gradient(to bottom, gray 0%, #00000000 90%); */
 }
 .icon-container:hover h3{
      background: linear-gradient(to bottom, gray 0%, #00000000 90%);
-     -webkit-background-clip: text;
-     -webkit-text-fill-color: transparent;
 }
 
 .icon-container{

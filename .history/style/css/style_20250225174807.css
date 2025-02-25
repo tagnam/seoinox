@@ -454,7 +454,7 @@ div.service-card{
     font-weight: 700;
     transition: all 0.3s; 
 }
-.icon-container:hover h3{
+.icon-container:hover .service-num>{
      background: linear-gradient(to bottom, gray 0%, #00000000 90%);
      -webkit-background-clip: text;
      -webkit-text-fill-color: transparent;

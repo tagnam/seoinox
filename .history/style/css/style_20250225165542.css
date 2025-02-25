@@ -364,14 +364,6 @@ div.service-card{
     /* top: -156px; */
 }
 
-.service-card img{
-    transition: all 0.3s; 
-}
-
-.service-card:hover img{
-    transform: rotate3d(1, 1, 1, 360deg);
-}
-
   /* <!--====================================== end service section  ============================--> */
 
   /* <!--====================================== start choice section  ============================--> */
@@ -434,62 +426,30 @@ div.service-card{
   }
   /* <!--====================================== end choice section  ============================--> */
 
-  /* <!--====================================== start service page  ============================--> */
+  /* <!--====================================== start service section  ============================--> */
 .service-page-section{
-    background-image: url(/images/footer-bg.png);
+    background-image: url(/images/dotedbg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 150px 0px;
-    background-attachment: fixed;
-    position: relative;
-    background-color: #F6F4F1;
-    /* background-image: linear-gradient(180deg, #DD71091C 0%, #F6F4F1 57%); */
+    padding: 100px 0px;
+    
 }
 
   .service-num h3{
-    background: linear-gradient(to bottom, rgba(128, 128, 128, 0.233) 0%, #00000000 90%);
+    background: linear-gradient(to bottom, gray 0%, #00000000 90%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 90px;
     font-weight: 700;
-    transition: all 0.3s; 
-}
-.icon-container:hover h3{
-     background: linear-gradient(to bottom, gray 0%, #00000000 90%);
-     -webkit-background-clip: text;
-     -webkit-text-fill-color: transparent;
 }
 
 .icon-container{
     display: flex;
     align-items: center;
     
-    
 }
 
-
-.service-page-card{
-    /* border: 1px solid #DD7109; */
-    border-radius: 20px;
-    padding: 20px;
-    margin:unset;
-    cursor: pointer;
-    z-index: 5;
-    background-color: #ffffff;
-    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;}
-
-
-    .icon-container img{
-        transition: all 0.3s; 
-    }
-
-    .icon-container:hover img{
-        /* transform: rotate(360deg); */
-        transform: rotate3d(1, 1, 1, 360deg);
-    }
-
-
-  /* <!--====================================== end page section  ============================--> */
+  /* <!--====================================== end service section  ============================--> */
 
 
 
