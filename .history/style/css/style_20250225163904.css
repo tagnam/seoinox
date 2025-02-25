@@ -431,8 +431,9 @@ div.service-card{
     background: linear-gradient(to bottom, gray 0%, #00000000 90%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 90px;
-    font-weight: 700;
+    font-size: 50px;
+    fon
+
 }
 
   /* <!--====================================== end service section  ============================--> */

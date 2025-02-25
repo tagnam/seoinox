@@ -426,16 +426,8 @@ div.service-card{
   }
   /* <!--====================================== end choice section  ============================--> */
 
-  /* <!--====================================== start service section  ============================--> */
-.service-num h3{
-    background: linear-gradient(to bottom, gray 0%, #00000000 90%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 90px;
-    font-weight: 700;
-}
-
-  /* <!--====================================== end service section  ============================--> */
+  /* <!--====================================== start choice section  ============================--> */
+  /* <!--====================================== end choice section  ============================--> */
 
 
 

@@ -428,13 +428,11 @@ div.service-card{
 
   /* <!--====================================== start service section  ============================--> */
 .service-num h3{
-    background: linear-gradient(to bottom, gray 0%, #00000000 90%);
+
+}
+  background: linear-gradient(to bottom, #DD7109 0%, #00000000 90%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 90px;
-    font-weight: 700;
-}
-
   /* <!--====================================== end service section  ============================--> */
 
 
