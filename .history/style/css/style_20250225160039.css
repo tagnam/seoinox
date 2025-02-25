@@ -390,7 +390,7 @@ div.service-card{
     overflow: hidden;
 }
   .chooise-card{
-    border: solid #ffffff;
+    border: solid #DD7109;
     border-radius: 20px;
     padding: 10px;
     margin:unset;
@@ -401,15 +401,12 @@ div.service-card{
     border-right-width: 5px;
     border-bottom-width: 5px;
     border-top-width: 1px;
-    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+   
     cursor: pointer;
 
   }
 
-  .chooise-card:hover{
-    border-color: #DD7109;
-    
-  }
+  .chooise-card
   .choice-img-container{
     display: flex;
     justify-content: center;
