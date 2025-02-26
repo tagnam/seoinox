@@ -87,12 +87,11 @@ background-size: cover;
 position: relative;
 width: 100%;    
 background-color: rgb(16, 10, 8);
-z-index: 1;
-opacity: 2;
+z-index: ;
 }
 
 header::before{
-    background-color: #00000085;
+    background-color: #797979;
     content: "";
     position: absolute;
     top: 0;

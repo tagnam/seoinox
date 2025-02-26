@@ -92,7 +92,7 @@ opacity: 2;
 }
 
 header::before{
-    background-color: #00000085;
+    background-color: #000000;
     content: "";
     position: absolute;
     top: 0;
