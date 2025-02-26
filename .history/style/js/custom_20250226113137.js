@@ -23,7 +23,7 @@ $(document).ready(function() {
     autoplay: true,         // Enable autoplay
     autoplaySpeed: 1000,    // Autoplay speed
     arrows: false ,           // Enable navigation arrows
-    // duration:0,
+    duration:0,
     
     });
     });

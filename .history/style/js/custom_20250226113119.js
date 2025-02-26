@@ -15,7 +15,7 @@
 
 $(document).ready(function() {
     $('.team-slider').slick({
-    dots: true,             // Enable navigation dots
+    // dots: true,             // Enable navigation dots
     infinite: true,         // Infinite loop
     speed: 1000,             // Transition speed
     slidesToShow: 3,        // Number of slides to show
@@ -23,7 +23,7 @@ $(document).ready(function() {
     autoplay: true,         // Enable autoplay
     autoplaySpeed: 1000,    // Autoplay speed
     arrows: false ,           // Enable navigation arrows
-    // duration:0,
+    duration:0,
     
     });
     });

@@ -14,16 +14,16 @@
 
 
 $(document).ready(function() {
-    $('.team-slider').slick({
-    dots: true,             // Enable navigation dots
+    $('.slider').slick({
+    // dots: true,             // Enable navigation dots
     infinite: true,         // Infinite loop
-    speed: 1000,             // Transition speed
-    slidesToShow: 3,        // Number of slides to show
+    speed: 3000,             // Transition speed
+    slidesToShow: 6,        // Number of slides to show
     slidesToScroll: 1,      // Number of slides to scroll
     autoplay: true,         // Enable autoplay
-    autoplaySpeed: 1000,    // Autoplay speed
+    autoplaySpeed: 2000,    // Autoplay speed
     arrows: false ,           // Enable navigation arrows
-    // duration:0,
+    duration:0,
     
     });
     });

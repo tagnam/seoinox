@@ -508,44 +508,9 @@ div.service-card{
     font-size: 65px;
     font-weight: 500;
     color: #ffffff;
-    margin-bottom: 30px;
     transition: all 0.3s; 
 }
 
-.choice-num span{
-    font-size: 30px;
-    font-weight: 500;
-color: #DD7109;
-    transition: all 0.3s; 
-}
-
-
-.exp-title{
-    font-size: 100px;
-    font-weight: 700;
-    color: #100A08;
-    margin-top: 20px;
-    transition: all 0.3s; 
-    text-align: center;
-}
-.team-card-body{
-    position: relative;
-}
-.team-card-body img{
-    border-radius: 20px;
-    transition: all 0.3s; 
-}
-.overlay{
-    background: linear-gradient(360deg, rgb(0, 0, 0) -20.7%, rgba(0, 0, 0, 0) 100%);
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    border-radius: 20px;
-
-}
 /* <!--====================================== end about page  ============================--> */
 
 
