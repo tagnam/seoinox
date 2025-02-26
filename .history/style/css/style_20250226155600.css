@@ -168,8 +168,7 @@ font-size: 60px;
     padding: 45px;
     border-radius: 50%;
     left: 0;
-    /* transform: translate(0px, 20px); */
-    margin-top: 20px;
+    transform: translate(0px, 20px);
  
 }
 

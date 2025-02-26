@@ -168,14 +168,12 @@ font-size: 60px;
     padding: 45px;
     border-radius: 50%;
     left: 0;
-    /* transform: translate(0px, 20px); */
-    margin-top: 20px;
- 
+    transform: translate(0px, 20px);
 }
 
 .step-icon-bottom img{
 
-    /* transform: translate(0px, 0px) ; */
+    transform: translate(0px, 0px) ;
 }
 
 .step-heading{
@@ -203,11 +201,10 @@ font-size: 60px;
 .step-content{
     margin-right: 50px;
 }
-.step-card img{
-    transition: all 0.3s; 
-}
-.step-card:hover img{
-    transform: rotate3d(1, 1, 1, 360deg);
+
+.step-card-top:hover.step-icon{
+    {
+
 }
     /*==================================== end step section =============================== */
 
