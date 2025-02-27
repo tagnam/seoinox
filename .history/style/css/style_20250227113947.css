@@ -79,7 +79,7 @@ a:hover{
 
 /*==================================== start header section =============================== */
 
-.header{
+header{
 background-image: url(/images/bg-seo-fast.png);
 /* height: auto; */
 background-position: center;
@@ -90,10 +90,9 @@ width: 100%;
 background-color: rgb(16, 10, 8);
 z-index: 1;
 opacity: 2;
-overflow: hidden;
 }
 
-.header::before{
+header::before{
     background-color: #00000085;
     content: "";
     position: absolute;
