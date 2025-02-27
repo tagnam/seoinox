@@ -19,7 +19,6 @@ https://themexriver.com/wp/choicy-wp/home-05/ */
 *{
    margin: 0;
    padding: 0;
-
 }
 
 body{
@@ -165,9 +164,7 @@ font-size: 60px;
 /*==================================== start hero section =============================== */
     
 .image-container{
-    display: flex;
-    justify-content: end;
-    align-items: end;
+    
 }
 
 
