@@ -821,19 +821,6 @@ background-image: url(/images/dotedbg.png);
     height: 100%;
 } */
 
-.competition-overlay{
-    background-image: url(/images/dotedbg.png);
-    /* width: 100%; */
-    /* height: 100%; */
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    background-size: cover;
-    background-position: center;
-}
 .digital-heading{
     font-size: 70px;
     font-weight: 700;
@@ -843,14 +830,7 @@ background-image: url(/images/dotedbg.png);
 }
 
 .digital-text{
-    text-align: center;
-    font-size: 25px;
-    font-weight: 400;
-    color: #ffffff; 
-}
-.btn-contianer{
-    text-align: center;
-    margin: 50px 0px;
+    tex
 }
 /* <!--====================================== end Competition section  ============================--> */
 

@@ -832,7 +832,6 @@ background-image: url(/images/dotedbg.png);
     bottom: 0;
     z-index: 1;
     background-size: cover;
-    background-position: center;
 }
 .digital-heading{
     font-size: 70px;
@@ -847,10 +846,6 @@ background-image: url(/images/dotedbg.png);
     font-size: 25px;
     font-weight: 400;
     color: #ffffff; 
-}
-.btn-contianer{
-    text-align: center;
-    margin: 50px 0px;
 }
 /* <!--====================================== end Competition section  ============================--> */
 

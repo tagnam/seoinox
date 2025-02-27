@@ -450,7 +450,7 @@ div.service-card{
     width: 100%;
     height: 100%;
     overflow: hidden;
-    padding: 10px;
+    padding: ;
 }
 .chooise-card-container::after{
     content: "";
@@ -780,79 +780,6 @@ margin: 0px -2px;
 }
 /* <!--====================================== end about page  ============================--> */
 
-
-
-/* <!--====================================== start Competition section  ============================--> */
-.competition-section{
-    background-image: url(/images/bg-light-effect.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 150px 0px;
-    /* background-attachment: fixed; */
-    background-position: center;
-    position: relative;
-    background-color: #100A08;
-    /* background-image: linear-gradient(180deg, #DD71091C 0%, #F6F4F1 57%); */
-}
-
-.competition-section::before{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-background-image: url(/images/footer-bg.png);
-    width: 100%;
-    height: 100%;
-}
-
-/* .competition-section::after{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-background-image: url(/images/dotedbg.png);
-    width: 100%;
-    height: 100%;
-} */
-
-.competition-overlay{
-    background-image: url(/images/dotedbg.png);
-    /* width: 100%; */
-    /* height: 100%; */
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    background-size: cover;
-    background-position: center;
-}
-.digital-heading{
-    font-size: 70px;
-    font-weight: 700;
-    color: #ffffff;
-    margin-top: 20px;
-    text-align: center;
-}
-
-.digital-text{
-    text-align: center;
-    font-size: 25px;
-    font-weight: 400;
-    color: #ffffff; 
-}
-.btn-contianer{
-    text-align: center;
-    margin: 50px 0px;
-}
-/* <!--====================================== end Competition section  ============================--> */
 
 
 

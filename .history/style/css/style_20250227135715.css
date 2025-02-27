@@ -788,7 +788,7 @@ margin: 0px -2px;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 150px 0px;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     background-position: center;
     position: relative;
     background-color: #100A08;
@@ -803,54 +803,9 @@ margin: 0px -2px;
     right: 0;
     bottom: 0;
     z-index: 1;
-background-image: url(/images/footer-bg.png);
+    background-color: #00000085;
     width: 100%;
     height: 100%;
-}
-
-/* .competition-section::after{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-background-image: url(/images/dotedbg.png);
-    width: 100%;
-    height: 100%;
-} */
-
-.competition-overlay{
-    background-image: url(/images/dotedbg.png);
-    /* width: 100%; */
-    /* height: 100%; */
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    background-size: cover;
-    background-position: center;
-}
-.digital-heading{
-    font-size: 70px;
-    font-weight: 700;
-    color: #ffffff;
-    margin-top: 20px;
-    text-align: center;
-}
-
-.digital-text{
-    text-align: center;
-    font-size: 25px;
-    font-weight: 400;
-    color: #ffffff; 
-}
-.btn-contianer{
-    text-align: center;
-    margin: 50px 0px;
 }
 /* <!--====================================== end Competition section  ============================--> */
 
