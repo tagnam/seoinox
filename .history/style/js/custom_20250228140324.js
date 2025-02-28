@@ -54,7 +54,7 @@ gsap.to(".sound-elements", {
 gsap.to(".man-rocket", {
   y: 5,
 //   opacity: 5,
-  duration: 2,
+  duration: 3,
   repeat: -1,
   yoyo: true,
    ease: "power1.inOut"
