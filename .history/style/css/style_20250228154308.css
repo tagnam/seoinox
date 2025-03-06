@@ -451,13 +451,13 @@ div.service-card{
 
 }
 .cloud {
-   position: relative;
+   /* position: relative; */
    display: flex;
    justify-content: center;
-   z-index: 7;
+   /* z-index: 7; */
   }
 .roket-01{
-    /* position: absolute; */
+    position: absolute;
     /* top: -156px; */
 }
 
@@ -578,23 +578,9 @@ div.service-card{
 }
 
 .digital-card{
-    background-color: transparent;
-    color: #fff;
+    
 }
 
-.digital-icon-container{
-    display: flex ;
-        justify-content: center;
-        align-items: center;
-        border: 1px solid;
-        border-radius: 50%;
-        height: 50px;
-        background-color: #FFFFFF21;
-}
-
-.digital-icon{
-    font-size: 25px;
-}
   /* <!--====================================== start service page  ============================--> */
 .service-page-section{
     background-image: url(/images/footer-bg.png);
@@ -862,7 +848,7 @@ margin: 0px -2px;
     background-image: url(/images/bg-light-effect.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 150px;
+    padding: 150px 0px;
     /* background-attachment: fixed; */
     background-position: center;
     position: relative;
