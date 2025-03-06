@@ -931,20 +931,13 @@ background-image: url(/images/dotedbg.png);
 
 /* <!--====================================== start Contact page  ============================--> */
 .contact-card{
-        border-color: #F7F6F3;
-        border-radius: 20px;
-        border-width: 2px;
+        
 }
 .card-upper{
     background-color: #F7F6F3;
     text-align: center;
-    border-top-left-radius: 20px;   
-    border-top-right-radius: 20px;
 }
 
-.card-upper:hover .contact-icon{
-    background-color: #DD7109;
-}
 .icon{
    display: flex;
    justify-content: center;
@@ -969,7 +962,7 @@ background-image: url(/images/dotedbg.png);
 
 .card-title h3{
     font-size: 28px;
-    margin-top:30px ;
+    margin:30px 0px ;
 }
 
 .card-description{
@@ -978,17 +971,6 @@ background-image: url(/images/dotedbg.png);
         line-height: 1.5;
 }
 
-.btn-close{
-    /* background-color: #DD7109; */
-    padding: 10px;
-    color: #ffffff;
-    font-size: 30px;
-    text-transform: uppercase;
-    font-weight: 700;
-    border-radius: 20px;
-    margin-top: 20px;
-    background-image: url(../../images/arrow-left-long-line.svg) !important;
-}
 /* <!--====================================== end Contact page  ============================--> */
 
 /*==================================== start footer =============================== */

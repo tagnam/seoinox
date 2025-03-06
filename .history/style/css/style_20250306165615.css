@@ -979,15 +979,15 @@ background-image: url(/images/dotedbg.png);
 }
 
 .btn-close{
-    /* background-color: #DD7109; */
-    padding: 10px;
+    background-color: #DD7109;
+    padding: 10px 30px;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: 700;
     border-radius: 20px;
     margin-top: 20px;
-    background-image: url(../../images/arrow-left-long-line.svg) !important;
+    background-image: url(../);
 }
 /* <!--====================================== end Contact page  ============================--> */
 
